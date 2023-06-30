@@ -8,4 +8,7 @@
 **How can I get involved?** You can get in touch by sending me an email: ianweber30@icloud.com.
 
 ![Peddle logo](peddle_logo_v3.png)
+![splash screen](IMG_0046.jpeg)
+![login screen](IMG_0047.jpeg)
+![home screen prototype](IMG_0049.jpeg)
 

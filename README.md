@@ -8,6 +8,6 @@
 **How can I get involved?** You can get in touch by sending me an email: ianweber30@icloud.com.
 
 ![Peddle logo](peddle_logo_v3.png)
-<img src="IMG_0046.jpeg" height="1200">
-<img src="IMG_0047.jpeg" height="1200">
-<img src="IMG_0049.jpeg" height="1200">
+<img src="IMG_0046.jpeg" height="1000">
+<img src="IMG_0047.jpeg" height="1000">
+<img src="IMG_0049.jpeg" height="1000">
